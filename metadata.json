@@ -1,0 +1,6 @@
+{
+  "name": "জনগণের সেবা - Jonogoner Seba",
+  "description": "জনগণের সেবা (Jonogoner Seba) - ডিজিটাল নাগরিক সেবা পোর্টাল। নিরাপদ পিডিএফ ডকুমেন্ট আপলোড, তাৎক্ষণিক কিউআর কোড তৈরি এবং নিবেদিত ভেরিফায়েড ভিউয়ার ব্যবস্থা।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
